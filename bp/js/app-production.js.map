@@ -1,0 +1,1 @@
+{"version":3,"file":null,"sources":["C:/Users/jnachtigall/Devel/BPA/dxp-blueprint/modules/frontend/themes/relaunch-theme/src/components/app.js"],"sourcesContent":["$(function() {\r\n  console.log('My viewport is: ');\r\n});\r\n"],"names":["$","log"],"mappings":"AAAAA,EAAE,YAAW;UACHC,GAAR,CAAY,kBAAZ;CADF"}
